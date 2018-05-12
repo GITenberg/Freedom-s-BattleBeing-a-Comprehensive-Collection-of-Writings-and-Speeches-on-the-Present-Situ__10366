@@ -1,5 +1,8 @@
 _repo: Freedom-s-BattleBeing-a-Comprehensive-Collection-of-Writings-and-Speeches-on-the-Present-Situ__10366
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gandhi, Mahatma
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3490
     wikipedia: http://en.wikipedia.org/wiki/Mahatma_Gandhi
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10366#Freedom-s-BattleBeing-a-Comprehensive-Collection-of-Writings-and-Speeches-on-the-Present-Situ_
 gutenberg_bookshelf: Children's History
 gutenberg_issued: '2003-12-01'
 gutenberg_type: Text
